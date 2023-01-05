@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ishansivak
 - 👀 I’m interested in Rust and Haskell
-- 🌱 I’m currently learning Scrypto
-- 💞️ I’m looking to collaborate on Scrypto Projects
 - 📫 How to reach me ishansivak@gmail.com
 
 <!---
